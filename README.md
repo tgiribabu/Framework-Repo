@@ -12,3 +12,4 @@ Note that Git strips some characters (for example trailing periods) from user.na
 git config --global user.name Sam Smith
 git config --global user.email sam@example.com
 Create a new local repository
+#deleted branch
