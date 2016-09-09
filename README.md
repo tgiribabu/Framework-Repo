@@ -13,3 +13,4 @@ git config --global user.name Sam Smith
 git config --global user.email sam@example.com
 Create a new local repository
 #deleted branch
+this is new branch and added a note in readme file
